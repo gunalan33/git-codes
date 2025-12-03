@@ -9,4 +9,4 @@ let c = 34;
 console.log(a + b / c);
 
 
-console.log("Welcome to the git course");
+console.log("Welcome to the git course and now for merge practice");
